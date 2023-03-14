@@ -1,0 +1,23 @@
+{
+  "name": "Content-management",
+  "version": "1.0.0",
+  "description": "Sistema de gestion de contenido",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo\"Error: no test specified\" && exit 1",
+    "seed": "cd db && npm run seed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davidmome/Content-Management.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^16.0.3",
+    "inquirer": "8.0.0",
+    "mysql2": "^2.3.3"
+  }
+}
