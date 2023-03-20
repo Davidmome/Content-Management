@@ -24,7 +24,7 @@ Puedes utilizar esta aplicacion para llevar un control de tus empleados
 
 ## Demostracion
 
-![imagen del error](/assets/img/error12.gif)
+![Gif aplicacion](/assets/img/content.gif)
 
 ## Colaboradores
 
